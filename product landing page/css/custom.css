@@ -1,0 +1,22 @@
+nav {
+    float: right;
+    margin-top: 2rem;
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+}
+
+li {
+    display: inline;
+}
+
+span {
+    font-size: 3rem;
+}
+
+#logo {
+    margin-left: 5rem;
+    margin-top: 2rem;
+}
