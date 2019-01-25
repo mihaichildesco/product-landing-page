@@ -1,19 +1,24 @@
 
 nav {
-    display: inline;
+    background-color: bisque;
     float: right;
+    height: 48px;
+}
+
+header {
+    background-color: burlywood;
 }
 
 ul {
     list-style-type: none;
     font-size: 2rem;
     margin-right: 4rem;
-    margin-top: -4rem;
+    background-color: yellow;
 }
 
 li {
-    margin-right: 8rem;
     display: inline;
+    background-color: aquamarine;
 }
 
 li a {
@@ -26,7 +31,7 @@ span {
 }
 
 #logo {
-    width: 50%;
+    display: inline-block;
+    background-color: chocolate;
     margin-left: 5rem;
-    margin-top: 2rem;
 }
